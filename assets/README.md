@@ -1,6 +1,3 @@
-🎨 Digital Brand & Media Asset Management – RUGAYA FILMS
-
-(You can add this inside assets/README.md or inside main README)
 
 🎨 Digital Brand & Media Asset Management – RUGAYA FILMS
 📌 Why This Folder Is Needed
@@ -194,3 +191,4 @@ GitHub portfolio looks premium
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+

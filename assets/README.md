@@ -1,8 +1,12 @@
 
 🎨 Digital Brand & Media Asset Management – RUGAYA FILMS
+
+
+
 📌 Why This Folder Is Needed
 
 The assets/ directory is responsible for maintaining all static branding and visual resources of the project.
+
 
 Without this folder:
 
@@ -17,6 +21,8 @@ Difficult to scale UI and marketing
 No clear separation between code and media
 
 This folder ensures structured Digital Asset Management (DAM).
+
+
 
 🎯 Importance of This Folder
 
@@ -35,6 +41,10 @@ Prepares project for production deployment
 Helps maintain design standards across environments
 
 For a premium brand like RUGAYA FILMS, visual identity is critical.
+
+
+==================================================================
+
 
 📂 Typical Structure of assets/
 assets/
@@ -191,4 +201,5 @@ GitHub portfolio looks premium
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+
 

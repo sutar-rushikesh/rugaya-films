@@ -40,7 +40,7 @@
 
 **RUGAYA FILMS** is a premium photography e-commerce platform built using modern DevOps principles and a scalable three-tier architecture.
 
-It demonstrates:
+It demonstrates :
 
 - 🔐 Secure JWT Authentication
 - 👤 Role-Based Access (Admin/User)
@@ -157,3 +157,4 @@ Cloud • DevOps • Full-Stack Engineering
 ---
 
 ⭐ If you find this project valuable, consider starring the repository.
+
